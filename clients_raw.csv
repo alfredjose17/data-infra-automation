@@ -1,0 +1,8 @@
+client_id,first_name,last_name,email,phone,join_date,risk_level,assets_under_management
+101,john,doe,john@example.com,(555) 123-4567,2024/01/02,high,100000
+102,MARy,SMITH,mary@example.com,555.234.5678,01-03-2024,MEDIUM,250000
+102,mary,Smith,mary@example.com,5552345678,"March 3, 2024",medium,250000
+,Alice,Brown,brown@example.com,1234567,2024-4-5,LOW,50000
+104,robert,JOHNSON,,+1 555 987 6543,4/6/24,HIGH,300000
+105,JANE,,jane@example.com,555 876 5432,2024.07.01,medium,150000
+106,michael,lee,mike@example.com,1-555-111-2222,07-08-2024,low,200000

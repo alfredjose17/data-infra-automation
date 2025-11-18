@@ -1,0 +1,5 @@
+client_id,first_name,last_name,email,phone,join_date,risk_level,assets_under_management
+101.0,John,Doe,john@example.com,+15551234567,2024-01-02,high,100000
+102.0,Mary,Smith,mary@example.com,+15552345678,2024-01-03,MEDIUM,250000
+105.0,Jane,,jane@example.com,+15558765432,2024-07-01,medium,150000
+106.0,Michael,Lee,mike@example.com,+15551112222,2024-07-08,low,200000
